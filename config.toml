@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "The Edge of Ordinary"
-  subtitle    = "Bloomington, Indiana"
+  subtitle    = "📍Bloomington, Indiana"
 
   cover       = "uploads/gradient.jpg"
   description = "Here is a description of your site."
