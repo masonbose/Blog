@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://friendly-villani-d740b8.netlify.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
