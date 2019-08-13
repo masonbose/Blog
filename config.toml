@@ -1,0 +1,60 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "The Edge of Ordinary"
+  subtitle    = "Bloomington, Indiana"
+
+  cover       = "uploads/gradient.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "BoseMason"
+  fbName = "MasonBose"
+  githubName = "masonbose"
+
+  logo = ""
+  orgName = "Made with ❤️ by MB"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Zoe and Caroline"
+  authorAvatar = "uploads/zoca2.jpeg"
+  authorLocation = "Bloomington, Indiana"
+  authorWebsite = ""
+  authorDescription = "We love to blog!"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/tags/about/"
+  weight = 100
+
+[[menu.main]]
+  name = "College"
+  url = "/tags/college/"
+  weight = 99
+
+[[menu.main]]
+  name = "Lifestyle"
+  url = "/tags/lifestyle/"
+  weight = 95
