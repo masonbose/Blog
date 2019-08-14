@@ -13,7 +13,7 @@ paginate        = 6
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["myStyles.css"]
   RSSLink = ""
 
   twitterName = "BoseMason"
